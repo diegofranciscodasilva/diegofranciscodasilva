@@ -2,7 +2,11 @@
 
 -  ### Olá ! Eu sou o Diego Francisco da Silva.  👋 🤗 
 - 🌱 Sou Estudante na Área de Desenvolvimento Web Full Stack Master.
-- 😄 Pronouns: Ele / Dele.
+- 🔭 Atualmente estou trabalhando comigo mesmo, estudando e fazendo meus projetos.
+- 🌱 Atualmente estou aprendendo HTML, CSS, PHP e JavaScript.
+- 👯 Estou procurando colaborar com todos que queiram ajuda na medida do possível.
+- 📫 Como entrar em contato comigo: diegofranciscodasilva@yahoo.com.br
+- 😄 Pronomes: Ele / Dele.
 
 ##
 
@@ -30,5 +34,8 @@
   <a href = "mailto:diegofranciscodasilva@yahoo.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://github.com/diegofranciscodasilva"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
     
-
 ##
+
+![Snake animation](https://github.com/diegofranciscodasilva/diegofranciscodasilva/blob/output/github-contribution-grid-snake.svg)
+ 
+## 
