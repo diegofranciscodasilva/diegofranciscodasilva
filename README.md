@@ -35,7 +35,3 @@
   <a href="https://github.com/diegofranciscodasilva"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
     
 ##
-
-![Snake animation](https://github.com/diegofranciscodasilva/diegofranciscodasilva/blob/output/github-contribution-grid-snake.svg)
- 
-## 
