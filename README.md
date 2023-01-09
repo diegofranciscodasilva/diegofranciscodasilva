@@ -32,7 +32,3 @@
     
 
 ##
-
- ![Snake animation](https://github.com/diegofranciscodasilva/diegofranciscodasilva/blob/output/github-contribution-grid-snake.svg)
- 
-##
