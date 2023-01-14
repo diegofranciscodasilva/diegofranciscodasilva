@@ -36,7 +36,3 @@
  <a href="https://twitter.com/DiegoFdaSilva35"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
     
 ##
-  
-  ![Snake animation](https://www.github.com/diegofranciscodasilva/diegofranciscodasilva/blob/output/github-contribution-grid-snake.svg)
-  
-##
