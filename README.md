@@ -5,7 +5,7 @@
 - 🔭 Atualmente estou trabalhando comigo mesmo, estudando e fazendo meus projetos.
 - 🌱 Atualmente estou aprendendo HTML, CSS, PHP e JavaScript.
 - 👯 Estou procurando colaborar com todos que queiram ajuda na medida do possível.
-- 📫 Como entrar em contato comigo: diegofranciscodasilva@yahoo.com.br
+- 📫 Pode entrar em contato comigo.
 - 😄 Pronomes: Ele / Dele.
 
 ##
@@ -33,5 +33,10 @@
  	<a href="https://www.linkedin.com/in/diego-francisco-da-silva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:diegofranciscodasilva@yahoo.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://github.com/diegofranciscodasilva"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+ <a href="https://twitter.com/DiegoFdaSilva35"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
     
+##
+  
+  ![Snake animation](https://www.github.com/diegofranciscodasilva/diegofranciscodasilva/blob/output/github-contribution-grid-snake.svg)
+  
 ##
