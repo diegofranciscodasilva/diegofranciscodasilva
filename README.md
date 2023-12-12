@@ -1,6 +1,6 @@
 ##
 
--  ### Olá ! Eu sou o Diego Francisco da Silva.  👋 🤗 
+### Olá ! Eu sou o Diego Francisco da Silva.  👋 🤗 
 - 🌱 Sou Estudante na Área de Desenvolvimento Web Full Stack Master.
 - 🔭 Atualmente estou trabalhando comigo mesmo, estudando e fazendo meus projetos.
 - 🌱 Atualmente estou aprendendo HTML, CSS, PHP e JavaScript.
@@ -10,9 +10,14 @@
 
 ##
 
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdiegofranciscodasilva%2F"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fdiegofranciscodasilva%2F&labelColor=%23222324&countColor=%23555555&style=flat" /></a>
+
+##
+
 <div align="center">
  <a href="https://github.com/diegofranciscodasilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegofranciscodasilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegofranciscodasilva&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=diegofranciscodasilva&theme=dracula" alt="GitHub Streak" /></a>
 </div>
 
 ##
