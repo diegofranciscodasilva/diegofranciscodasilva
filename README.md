@@ -1,12 +1,17 @@
 ##
 
 ### Olá ! Eu sou o Diego Francisco da Silva.  👋 🤗 
-- 🌱 Sou Estudante na Área de Desenvolvimento Web Full Stack Master.
-- 🔭 Atualmente estou trabalhando comigo mesmo, estudando e fazendo meus projetos.
-- 🌱 Atualmente estou aprendendo HTML, CSS, PHP e JavaScript.
-- 👯 Estou procurando colaborar com todos que queiram ajuda na medida do possível.
-- 📫 Pode entrar em contato comigo.
-- 😄 Pronomes: Ele / Dele.
+ 🌱 Sou Estudante na Área de Desenvolvimento Web Full Stack Master.
+ 
+ 🔭 Atualmente estou trabalhando comigo mesmo, estudando e fazendo meus projetos.
+ 
+ 🌱 Atualmente estou aprendendo HTML, CSS, PHP, JavaScript, Git e GitHub.
+ 
+ 👯 Estou procurando colaborar com todos que queiram ajuda na medida do possível.
+ 
+ 📫 Pode entrar em contato comigo. Estou a procura de novos amigos de trabalho e estudos.
+ 
+ 😄 Pronomes: Ele / Dele.
 
 ##
 
@@ -27,8 +32,8 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-  
-
+  <img align="center" height="30" width="90" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  <img align="center" height="30" width="80" src="https://img.shields.io/badge/Git-100000?style=for-the-badge&logo=git&logoColor=E94D5F">
 </div>
 
 ##
