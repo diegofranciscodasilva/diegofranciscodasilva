@@ -1,7 +1,7 @@
 ##
 
 ### Olá ! Eu sou o Diego Francisco da Silva.  👋 🤗 
- 🌱 Sou Estudante na Área de Desenvolvimento Web Full Stack Master.
+ 🌱 Sou Estudante na Área de Desenvolvimento Web (Front - End).
  
  🔭 Atualmente estou trabalhando comigo mesmo, estudando e fazendo meus projetos.
  
