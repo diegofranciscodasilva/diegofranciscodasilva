@@ -14,7 +14,7 @@
  😄 Pronomes: Ele / Dele.
 
 ##
-### Status = Repo-Commits and Languages Used 👽
+### Stats = Repo-Commits and Languages Used 👽
 <div align="left">
  <a href="https://github.com/diegofranciscodasilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegofranciscodasilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><br/>
