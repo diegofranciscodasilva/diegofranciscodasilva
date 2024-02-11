@@ -42,6 +42,7 @@
   <a href="https://github.com/diegofranciscodasilva" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" /></a>
   <a href="https://discord.com/channels/diegofranciscodasilva35" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" /></a>
   <a href="https://twitter.com/DiegoFdaSilva35" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://beacons.ai/diegofranciscodasilva"><img src="https://img.shields.io/badge/Beacons-3D7EBB.svg?style=for-the-badge&logo=Beacons&logoColor=white"></a>
 </div>
     
 ##
