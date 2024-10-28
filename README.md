@@ -5,7 +5,7 @@
  
  🔭 Atualmente estou trabalhando comigo mesmo, estudando e fazendo meus projetos.
  
- 🌱 Atualmente estou aprendendo HTML, CSS, PHP, JavaScript, Git e GitHub.
+ 🌱 Atualmente estou aprendendo HTML, CSS, JavaScript, Git e GitHub.
  
  👯 Estou procurando colaborar com todos que queiram ajuda na medida do possível.
  
