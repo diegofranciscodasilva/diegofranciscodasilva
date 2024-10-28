@@ -41,9 +41,6 @@
   <a href="mailto:diegofranciscodasilva@yahoo.com.br" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
   <a href="https://github.com/diegofranciscodasilva" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" /></a>
   <a href="https://discord.com/channels/diegofranciscodasilva35" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" /></a>
-  <a href="https://twitter.com/DiegoFdaSilva35" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank" /></a>
-  <a href="https://beacons.ai/diegofranciscodasilva" target="_blank"><img src="https://img.shields.io/badge/Beacons-3D7EBB.svg?style=for-the-badge&logo=Beacons&logoColor=white" target="_blank" /></a>
-  <a href="https://linktr.ee/diegofranciscodasilva" taget="_blank"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" /></a>
 </div>
     
 ##
