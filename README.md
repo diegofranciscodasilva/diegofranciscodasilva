@@ -1,7 +1,7 @@
 ##
 
 ## Olá ! Eu sou o Diego Francisco da Silva.  👋 🤗 
- 🌱 Sou Estudante na Área de Desenvolvimento Web (Front - End).
+ 🌱 Sou Estudante na Área de Desenvolvimento Web (Front - End) Começando curso superior - bacharel em Engenharia de Software na Faculdade Facint (EAD).
  
  🔭 Atualmente estou trabalhando comigo mesmo, estudando e fazendo meus projetos.
  
