@@ -1,17 +1,19 @@
 ##
 
 ## Olá ! Eu sou o Diego Francisco da Silva.  👋 🤗 
- 🌱 Sou Estudante na Área de Desenvolvimento Web (Front - End) Começando curso superior - bacharel em Engenharia de Software na Faculdade Facint (EAD).
+🎓 Estudante de Engenharia de Software (Bacharelado) na Facint (EAD), com foco em Desenvolvimento Web Front-End.
+
+💼 Atuo como freelancer, desenvolvendo landing pages, clones de sites e interfaces web responsivas.
+
+🎯 Também estou em busca de uma oportunidade de trabalho (estágio, CLT ou home-office) na área de Front-End, para continuar evoluindo tecnicamente em ambiente profissional.
+
+🌱 Tecnologias que domino/estudo: HTML, CSS, JavaScript, Git e GitHub.
+
+🤝 Aberto a colaborações e parcerias em projetos.
+
+📫 Entre em contato — estou disponível tanto para freelas quanto para conversar sobre vagas."
  
- 🔭 Atualmente estou trabalhando comigo mesmo, estudando e fazendo meus projetos.
- 
- 🌱 Atualmente estou aprendendo HTML, CSS, JavaScript, Git e GitHub.
- 
- 👯 Estou procurando colaborar com todos que queiram ajuda na medida do possível.
- 
- 📫 Pode entrar em contato comigo. Estou a procura de novos amigos de trabalho e estudos.
- 
- 😄 Pronomes: Ele / Dele.
+😄 Pronomes: Ele / Dele.
 
 ##
 ### Stats = Repo-Commits and Languages Used 👽
