@@ -11,7 +11,7 @@
 
 🤝 Aberto a colaborações e parcerias em projetos.
 
-📫 Entre em contato — estou disponível tanto para freelas quanto para conversar sobre vagas."
+📫 Entre em contato — estou disponível para conversar e fazer conexões."
  
 😄 Pronomes: Ele / Dele.
 
