@@ -1,19 +1,26 @@
 ##
 
-## Olá ! Eu sou o Diego Francisco da Silva.  👋 🤗 
-🎓 Estudante de Engenharia de Software (Bacharelado) na Facint (EAD), com foco em Desenvolvimento Web Front-End.
+## Olá ! Eu sou o Diego Francisco da Silva.  👋 🤗
 
-💼 Atuo como freelancer, desenvolvendo landing pages, clones de sites e interfaces web responsivas.
+🎓 Sou estudante de Engenharia de Software — Bacharelado, na FACINT — EAD, em transição de carreira para a área de tecnologia, com foco em Desenvolvimento Web Front-End, Design de Interfaces, Python e Inteligência Artificial Generativa.
 
-🎯 Também estou em busca de uma oportunidade de trabalho (estágio, CLT ou home-office) na área de Front-End, para continuar evoluindo tecnicamente em ambiente profissional.
+💼 Atuo como freelancer no desenvolvimento de landing pages, clones de sites, interfaces web responsivas e pequenos projetos digitais, aplicando conhecimentos de HTML, CSS, JavaScript, Git e GitHub.
 
-🌱 Tecnologias que domino/estudo: HTML, CSS, JavaScript, Git e GitHub.
+📚 Atualmente, estou ampliando minha formação por meio de cursos na Udemy, estudando:
 
-🤝 Aberto a colaborações e parcerias em projetos.
+Python, do nível básico ao avançado;
+Design de interfaces no Figma, com foco na criação de interfaces web completas;
+Engenharia de IA Generativa, com foco na aplicação prática da Inteligência Artificial em projetos e soluções digitais.
 
-📫 Entre em contato — estou disponível para conversar e fazer conexões."
- 
-😄 Pronomes: Ele / Dele.
+🎯 Também estou em busca de uma oportunidade profissional — estágio, CLT ou trabalho home office — na área de Desenvolvimento Web Front-End, onde eu possa continuar evoluindo tecnicamente e contribuir com dedicação, responsabilidade e comprometimento.
+
+🌱 Estou sempre buscando aprender novas tecnologias, desenvolver projetos práticos e transformar conhecimento em soluções funcionais e úteis.
+
+🤝 Estou aberto a colaborações, parcerias e oportunidades profissionais em projetos de tecnologia, desenvolvimento web e soluções digitais.
+
+📫 Entre em contato comigo.
+
+😄 Pronomes: Ele / Dele
 
 ##
 ### Stats = Repo-Commits and Languages Used 👽
@@ -37,7 +44,7 @@
 ##
 ### Social Medias 💻
 <div align="left">
-  <a href="https://instagram.com/diego_francisco_da_silva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /></a>
+  <a href="https://instagram.com/dev.software.web" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /></a>
  	<a href="https://www.linkedin.com/in/diego-francisco-da-silva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
   <a href="mailto:diegofranciscodasilva@yahoo.com.br" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
   <a href="https://github.com/diegofranciscodasilva" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" /></a>
