@@ -35,11 +35,16 @@ Engenharia de IA Generativa, com foco na aplicação prática da Inteligência A
 
 ##
 ### Technologies 🛠️
+![Engenharia de Software](https://img.shields.io/badge/Engenharia_de_Software-00599C?style=for-the-badge&logo=developer-board&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![UX/UI](https://img.shields.io/badge/UX%2FUI-000000?style=for-the-badge&logo=figma&logoColor=white)
+![IA Generativa](https://img.shields.io/badge/IA_Generativa-74277C?style=for-the-badge&logo=openai&logoColor=white)
 
 ##
 ### Social Medias 💻
@@ -49,6 +54,9 @@ Engenharia de IA Generativa, com foco na aplicação prática da Inteligência A
   <a href="mailto:diegofranciscodasilva@yahoo.com.br" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
   <a href="https://github.com/diegofranciscodasilva" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" /></a>
   <a href="https://discord.com/channels/diegofranciscodasilva35" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" /></a>
+  <a href="https://diegofranciscodasilva.github.io/DiegoPortfolio/" target="_blank"><img src="https://img.shields.io/badge/Portf%C3%B3lio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" target="_blank"></a>
+  <a href="https://diegofranciscodasilva.github.io/dev-software-web/" target="_blank"><img src="https://img.shields.io/badge/Portf%C3%B3lio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" target="_blank"></a>
+  <a href="https://wa.me/5511915466889" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
     
 ##
@@ -56,6 +64,7 @@ Engenharia de IA Generativa, com foco na aplicação prática da Inteligência A
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Playstation](https://img.shields.io/badge/Playstation-003791?style=for-the-badge&logo=playstation&logoColor=white)
 ![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white)
