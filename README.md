@@ -4,7 +4,7 @@
 
 🎓 Sou estudante de Engenharia de Software — Bacharelado na UNINTEGRAÇÃO - CENTRO UNIVERSITÁRIO, MARINGÁ – PR (24553) — EAD, em transição de carreira para a área de tecnologia, com foco em Desenvolvimento Web Front-End, Design de Interfaces, Python e Inteligência Artificial Generativa.
 
-💼 Atuo como freelancer no desenvolvimento de landing pages, clones de sites, interfaces web responsivas e pequenos projetos digitais, aplicando conhecimentos de HTML, CSS, JavaScript, Git e GitHub.
+💼 Atuo como freelancer no desenvolvimento de landing pages, clones de sites, interfaces web responsivas e pequenos projetos digitais, aplicando conhecimentos de HTML, CSS, JavaScript, Git - GitHub e Figma Design UX-UI.
 
 📚 Atualmente, estou ampliando minha formação por meio de cursos na Udemy, estudando:
 
